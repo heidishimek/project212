@@ -14,7 +14,7 @@
 		<maven.compiler.release>15</maven.compiler.release>
 
 		<!-- dependency versions -->
-		<jettyVersion>11.0.0</jettyVersion>
+		<jettyVersion>11.0.10</jettyVersion>
 		<logj4Version>2.14.0</logj4Version>
 
 		<!-- compiler arguments -->
